@@ -1,3 +1,3 @@
-#Árvore Rubro-Negra
+# Árvore Rubro-Negra
 
 Esta é a implmentação de uma Árvore Rubro-Negra em linguagem C. Esta estrutura de dados possui as propriedades-base de uma Árvore Binária de Busca comum, mas com propriedades adicionais no que se refere a um balenceamento dos nós inseridos na Árvore, por meio do conceito de coloração desses nós.
