@@ -2,7 +2,7 @@
 
 Este repositório contém implementações de algoritmos de estruturas de dados em C, desenvolvidas ao longo de disciplinas do curso de ciência da computação. Com isso, que este repositório possa servir como recurso de aprendizado a aqueles que desejam aprofundar seus conhecimentos em estruturas de dados.
 
-## Estruturas Incluídas
+## Estruturas Incluídas (Até o momento):
 
 1. **Árvore Binária de Busca (ABB);**
 
