@@ -12,7 +12,7 @@ Este repositório contém implementações de algoritmos de estruturas de dados 
 
 ## Como Usar
 
-Cada pasta no repositório corresponde a uma estrutura de dados específica. Dentro de cada pasta, você encontrará os arquivos de código-fonte e, se necessário, um arquivo de compilação ou script.
+Cada pasta no repositório corresponde a uma estrutura de dados específica. Dentro de cada pasta, você encontrará os arquivos de código-fonte e, se necessário, um script para compilação.
 
 
 
