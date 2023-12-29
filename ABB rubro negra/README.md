@@ -22,3 +22,12 @@ O código está organizado de modo a englobar as principais operações do algor
 Para compilar o código, esteja ciente da necessidade de instalação de um compilador para a linguagem C, e logo após isso, basta abrir o arquivo no terminal e aplicar o seguinte comando: 
 
 ```bash
+gcc <nome_do_arquivo>.c -o ABB_RN
+```
+
+Para rodar o código, execute o seguinte comando:
+
+```bash
+./ABB_RN
+```
+
