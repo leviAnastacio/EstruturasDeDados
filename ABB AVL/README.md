@@ -13,20 +13,20 @@ Esta é a implmentação de uma Árvore Binária de Busca AVL (ABB AVL) em lingu
        
 ## Descrição do código
 
-O código está organizado de modo a englobar as principais operações do algoritmo da Árvore Rubro-Negra, tais como: ***Inserção***, ***Remoção***, ***Rotações*** e ***Colorações***. O código possui, também a implementação de "funções-extra", tais como: ***Cáculo da altura negra***, ***Verificação se uma árvore é rubro-negra ou não***. O código conta, ainda com uma função de teste, a qual define a criação de 1000 árvores rubro-negras, insere 10000 nós em cada uma delas, verifica se as árvores são rubro-negras, realiza a remoção de 1000 desses nós, e verifica mais uma vez se as árvores permanecem rubro-negras após as remoções.
+O código está organizado de modo a englobar as principais operações do algoritmo da Árvore AVL, tais como: ***Inserção***, ***Remoção***, ***Rotações*** e ***Cálculo do bal***. O código possui, também a implementação de "funções-extra", tais como: ***Cáculo da altura das subárvores direita e esquerda***, ***Verificação se uma árvore é AVL ou não*** e ***Contagem no número de nós***. O código conta, ainda com uma função de teste, a qual define a criação de 1000 árvores AVL, insere 10000 nós em cada uma delas, verifica se as árvores são AVL, realiza a remoção de 1000 desses nós, e verifica mais uma vez se as árvores permanecem AVL após as remoções.
 
 ## Compilação e Execução
 
 Para compilar o código, esteja ciente da necessidade de instalação de um compilador para a linguagem C, e logo após isso, basta abrir o arquivo no terminal e aplicar o seguinte comando: 
 
 ```bash
-gcc <nome_do_arquivo>.c -o ABB_RN
+gcc <nome_do_arquivo>.c -o ABB_AVL
 ```
 
 Para rodar o código, execute o seguinte comando:
 
 ```bash
-./ABB_RN
+./ABB_AVL
 ```
 
 
