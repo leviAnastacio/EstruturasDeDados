@@ -5,11 +5,11 @@ Esta é a implmentação de uma Árvore Binária de Busca AVL (ABB AVL) em lingu
 ## Propriedades
 **1.** ABB em que cada nó ***v*** temos que: -1 <= hD(v) - hE(v) <= 1
        
-       **->** hD(v) = altura da ***subárvore direita*** de um nó v.
+**->** hD(v) = altura da ***subárvore direita*** de um nó v.
        
-       **->** hE(v) = altura da ***subárvore esquerda*** de um nó v.
+ **->** hE(v) = altura da ***subárvore esquerda*** de um nó v.
        
-       **->** fator de balanceamento (bal):  ***hD(v) - hE(v)***.
+**->** fator de balanceamento (bal):  ***hD(v) - hE(v)***.
        
 ## Descrição do código
 
