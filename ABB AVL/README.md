@@ -3,7 +3,7 @@
 Esta é a implmentação de uma Árvore Binária de Busca AVL (ABB AVL) em linguagem C. Esta estrutura de dados possui as propriedades-base de uma Árvore Binária de Busca comum, mas com propriedades adicionais no que se refere a um balanceamento dos nós inseridos na Árvore, por meio do conceito do cáculo do fator de balanceamento (bal).
 
 ## Propriedades
-**1.** ABB em que cada nó ***v*** temos que: -1 <= hD(v) - hE(v) <= 1
+**1.** ABB em que cada nó ***v*** temos que: -1 ≤ hD(v) - hE(v) ≤ 1
        
 **->** hD(v) = altura da ***subárvore direita*** de um nó v.
        
